@@ -1,1 +1,1 @@
-Code patterns examples
+Each data structure can be found inside src folder with example demonstrations along with readme file
