@@ -1,2 +1,2 @@
 // import("./FilterNode/FilterNode.ts")
-import("./EventSteamCompaction/EventSteamCompaction.ts")
+import("./LinkedLists/EventSteamCompaction/EventSteamCompaction.ts")
